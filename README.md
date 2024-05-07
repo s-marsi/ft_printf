@@ -1,6 +1,8 @@
 
 # <span style="color: red;">FT_PRINTF</span>(1337)
 
+This repository hosts my implementation of printf as a part of 42 cursus. By undertaking this task, I aim to deepen my understanding of variadic functions and enhance my skills in C programming.
+
 ## Table of Contents
 - [Subject](#subject)
 - [Description](#description)
